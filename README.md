@@ -4,9 +4,8 @@ Using a base Ubuntu image on Amazon Lightsail, I was tasked to prepare it to hos
 
 ## Server Information
 
-- Public IP Address: 34.217.195.185
-- SSH port: 2200
 - URL of hosted web application: http://ec2-34-217-195-185.us-west-2.compute.amazonaws.com/
+- SSH port: 2200
 - SSH connection command:
 
 ````

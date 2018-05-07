@@ -2,9 +2,6 @@
 
 Using a base Ubuntu image on Amazon Lightsail, I was tasked to prepare it to host a web application.  
 
-Tasks included:
-- Creating a new user and giving sudo access
-
 ## Server Information
 
 - Public IP Address: 34.217.195.185
